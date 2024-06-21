@@ -1,0 +1,1 @@
+If you found a bug, you can report it on [Discord](https://discord.gg/Q65TqRwnce) or create a [Github Issue.](https://github.com/NanoFlux/networks/issues/new)

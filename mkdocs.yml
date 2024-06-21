@@ -1,0 +1,65 @@
+site_name: Networks Wiki
+
+nav:
+  - Home:
+    - Home: index.md
+    - Installation: installation.md
+    - Bugs: bugs.md
+    - Social: social.md
+    - Introduction: basics.md
+    - Components: components.md
+    - Commands: commands.md
+    - Users: users.md
+    - Merging: merging.md
+
+    
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo_small.png
+  # custom_dir: overrides
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  icon:
+    repo: fontawesome/brands/github-alt
+  palette:
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: deep purple
+    accent: indigo
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: black
+    accent: indigo
+    toggle:
+      icon: material/weather-night
+      name: Switch to light mode
