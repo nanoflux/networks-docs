@@ -8,7 +8,7 @@ To add a component into your network, you first need to craft it at the crafting
 
 The recipes should be unlocked at join, make sure the recipe book is set to “Show all” and not “Only craftable”.
 
-After [selecting the network](/basics.md), the components should be installed in, just place down the component you crafted.
+After [selecting the network](/basics), the components should be installed in, just place down the component you crafted.
 
 You should receive a confirmation message in chat.
 
